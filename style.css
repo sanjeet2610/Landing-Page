@@ -92,6 +92,7 @@ ul {
 
 .section2 {
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 .section2 .images {
@@ -110,6 +111,7 @@ ul {
 
 .section2 p {
     width: 170px;
+    font-size: small;
 }
 
 .section2 h2 {
@@ -117,4 +119,27 @@ ul {
     font-weight: 900;
     color: #1F2937;
     font-family: 'Roboto', sans-serif;
+}
+
+.section3 {
+    background-color: #E5E7EB;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 70px;
+}
+
+.section3 .quote {
+    margin: 90px 220px;
+    margin-bottom: 0px;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.section3 .person {
+    text-align: end;
+    margin-top: 0px;
+    font-weight: bold;
+    margin-right: 230px;
+    font-size: 15px;
 }
