@@ -180,3 +180,10 @@ ul {
     color: #F9FAF8;
     border: 2px solid #F9FAF8;
 }
+
+.footer {
+    text-align: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 12px 0;
+}
